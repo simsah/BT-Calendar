@@ -1,0 +1,6 @@
+com/google/api/services/samples/calendar/sync/Utils.class
+com/google/api/services/samples/calendar/sync/SyncTokenSample.class
+com/google/api/services/samples/calendar/sync/controller/service/CalendarLessonUpdater.class
+com/google/api/services/samples/calendar/sync/ConditionalRetrievalSample.class
+com/google/api/services/samples/calendar/sync/CalendarQuickstart.class
+com/google/api/services/samples/calendar/sync/ConditionalModificationSample.class
